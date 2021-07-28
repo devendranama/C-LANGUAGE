@@ -3,7 +3,6 @@ int main()
 {
  int i,k;
  int j=1;
- printf("This is designed by  Bharat patel \n");
  printf("Enter any integer:");    
  scanf("%d",&i);
  
