@@ -2,7 +2,6 @@
 int main()
 {
  int choice,a,b,sum,sub,multiply, division;
- printf("This is designed by Bharat Patel\n");
  printf("Addition \n");
  printf("Subtraction \n");
  printf("Multiply \n");
