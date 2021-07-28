@@ -3,7 +3,6 @@ int main()
 {
  int i;
  int num[10];
- printf("This is designed by Bharat Patel\n");
  printf("Enter the value \n");
  for(i=0; i<10; i++)
  {
